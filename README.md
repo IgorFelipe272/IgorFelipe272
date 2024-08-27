@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ## 👾 Sobre Mim
 
-Olá! Eu sou um desenvolvedor indie de jogos apaixonado por criar experiências únicas e envolventes. Meu foco principal está em game design e programação, onde busco equilibrar criatividade e técnica para trazer ideias à vida. 🎮
-Além de desenvolver jogos, também atuo como desenvolvedor full stack, trabalhando tanto no front-end quanto no back-end para construir aplicações completas. Estou sempre em busca de novos desafios e aprendizados, explorando desde mecânicas de jogos até o desenvolvimento de sistemas web.
+Oi! Sou um desenvolvedor indie de jogos com uma paixão por criar experiências únicas e envolventes. Minha principal área de atuação é em game design e programação, onde me esforço para equilibrar criatividade e técnica e dar vida às minhas ideias. 
+Além de criar jogos, também trabalho como desenvolvedor full stack, lidando com tanto com o front-end quanto com o back-end para construir aplicações completas. Estou sempre em busca de novos desafios e oportunidades para aprender, seja aprimorando mecânicas de jogos ou desenvolvendo sistemas web.
 
 ---
 
@@ -93,5 +93,5 @@ Além de desenvolver jogos, também atuo como desenvolvedor full stack, trabalha
 <br></div>
 
 ---
-_**"Frase inspiradora ou lema"**_
+_**"A criatividade é a coragem de deixar sua imaginação voar livre, e a técnica é a habilidade de transformar essa liberdade em realidade."**_
 
