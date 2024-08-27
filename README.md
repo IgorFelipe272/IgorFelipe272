@@ -71,9 +71,10 @@ Além de criar jogos, também trabalho como desenvolvedor full stack, lidando co
 ---
 
 ### Portifolio
-![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://gol-d-roggi.itch.io)
+
 
 ---
 
