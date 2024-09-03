@@ -38,7 +38,7 @@ Além de criar jogos, também trabalho como desenvolvedor full stack, lidando co
 
 ---
 
-## 🛠️ Linguagens
+## </> Linguagens
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,13 +47,11 @@ Além de criar jogos, também trabalho como desenvolvedor full stack, lidando co
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=java&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%231d72b8.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
 ---
 
-## Ferramentas
+## 🛠️ Ferramentas
 ![Unity](https://img.shields.io/badge/Unity-%232F4F8C.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%234E4E4E.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -65,12 +63,17 @@ Além de criar jogos, também trabalho como desenvolvedor full stack, lidando co
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-%232E3A5B.svg?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23324AB2.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
+## 📚 Estudando
+![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=java&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%231d72b8.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Verse](https://img.shields.io/badge/Verse-%23377EF0.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 
 ---
 
-### Portifolio
+### 🖼️ Portifolio
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/igor_felipe)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IgorFelipe272)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://gol-d-roggi.itch.io)
